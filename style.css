@@ -6,3 +6,14 @@ h3
 {
     color: brown;
 }
+
+img{
+    width: 50%;
+    height: 20%;
+}
+
+body
+{
+    background-image: url('kartik.jpg');
+    width: auto;
+}
